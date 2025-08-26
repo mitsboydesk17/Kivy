@@ -1,2 +1,2 @@
 # Kivy
-codigos kivy e interativos
+codigos kivy e interativo
